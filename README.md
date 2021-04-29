@@ -5,5 +5,5 @@ Use terminal to encrypt and decrypt files using:
 2. RSA
 
 Generate:
-3. RSA Signature and verify using the generated signature file
-4. SHA-256
+1. RSA Signature and verify using the generated signature file
+2. SHA-256
